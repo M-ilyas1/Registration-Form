@@ -3,7 +3,8 @@ h2, p{
 	color: black;
 }
 .para2{
-	color: gold;
+	color: black;
+	font-size: 18px;
 }
 .form{
 	width: 500px;
@@ -13,7 +14,7 @@ h2, p{
 	margin-top: 10px;
 	margin-left: auto;
 	margin-right: auto;
-	color: gold;
+	color: black;
 
 }
 form{
@@ -24,9 +25,9 @@ input{
 	margin-top: 10px;
 	height: 30px;
 	background-color: transparent;
-	border: 1px solid gold;
+	border: 1px solid black;
 	padding: 10px;
-	color: gold;
+	color: black;
 	font-size: 15px;
 	margin-right: auto;
 	margin-left: auto;
@@ -35,17 +36,17 @@ button{
 	width: 50%;
 	height: 30px;
 	margin-top: 10px;
-	border: 1px solid gold;
+	border: 1px solid black;
 	cursor: pointer;
 	font-weight: 200;
-	color: gold;
+	color: black;
 	background-color: transparent;
 }
 input:focus {
 	outline: none;
 }
 input::placeholder {
-	color: gold;
+	color: black;
 }
 h1{
 	text-align: center
