@@ -1,0 +1,52 @@
+h2, p{
+	text-align: center;
+	color: black;
+}
+.para2{
+	color: gold;
+}
+.form{
+	width: 500px;
+	height: 900px;
+	background-color: black;
+	background-color: rgba(0,0,0,0.3);
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	color: gold;
+
+}
+form{
+	padding-top: 30px;
+	padding-left: 20px; 
+}
+input{
+	margin-top: 10px;
+	height: 30px;
+	background-color: transparent;
+	border: 1px solid gold;
+	padding: 10px;
+	color: gold;
+	font-size: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+button{
+	width: 50%;
+	height: 30px;
+	margin-top: 10px;
+	border: 1px solid gold;
+	cursor: pointer;
+	font-weight: 200;
+	color: gold;
+	background-color: transparent;
+}
+input:focus {
+	outline: none;
+}
+input::placeholder {
+	color: gold;
+}
+h1{
+	text-align: center
+}
